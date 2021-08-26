@@ -1,0 +1,3 @@
+vendor/
+main.wasm
+wasm_exec.js
